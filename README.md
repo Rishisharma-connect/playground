@@ -1,9 +1,8 @@
-Scapegoat
+Playground
 =========
 
 A minimal node module providing utility methods to `escape` and `unescape` HTML entities
 
-See the associated blog post, ["Creating and publishing a node.js module."](https://quickleft.com/blog/creating-and-publishing-a-node-js-module/)
 
 ## Installation
 
